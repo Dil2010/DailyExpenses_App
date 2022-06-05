@@ -1,1 +1,2 @@
-# DailyExpenses_App
+# DailyExpenses App
+Introduction
